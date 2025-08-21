@@ -102,7 +102,7 @@ Hra_HadejCislo/
 - **Bootstrap framework**: Použití CSS frameworku
 - **SCSS**: Preprocessor pro CSS
 
-## 🔧 Možná Vylepšení
+## Možná Vylepšení
 
 ### Funkční Rozšíření
 - Přidání zvukových efektů
