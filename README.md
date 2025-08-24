@@ -125,3 +125,4 @@ Tento projekt demonstruje základní koncepty JavaScript programování v kontex
 **Autor**: Robin Lassak  
 **Technologie**: HTML5, CSS3, JavaScript, Bootstrap, SCSS  
 **Typ**: Interaktivní webová hra
+
